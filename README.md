@@ -56,10 +56,10 @@ http://localhost/E-Commerce/
 📷 Screenshots:
 
 Login page:
-![alt text](<Screenshots/Login page.png>)
+C:\xampp\htdocs\E-commerce\Screenshots\Login page.png
 
 Home page:
-![alt text](<Screenshots/Home page.png>)
+C:\xampp\htdocs\E-commerce\Screenshots\Home page.png
 
 Cart page:
 ![alt text](<Screenshots/Cart page.png>)
