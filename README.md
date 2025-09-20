@@ -59,19 +59,19 @@ http://localhost/E-Commerce/
 ![Screenshots/login.png](Screenshots/login.png)
 
 🏠 Home Page
-![Home Page](Screenshots/home.png)
+![Screenshots/home.png](Screenshots/home.png)
 
 🛒 Cart Page
-![Cart Page](Screenshots/cart.png)
+![Screenshots/cart.png](Screenshots/cart.png)
 
 🔐 Admin Login Page
-![Admin Login](Screenshots/Admin login.png)
+![Screenshots/adminlogin.png](Screenshots/adminlogin.png)
 
 📊 Admin Dashboard
-![Admin Dashboard](Screenshots/admin-dashboard.png)
+![Screenshots/admindashboard.png](Screenshots/admindashboard.png)
 
 📦 Manage Products
-![Manage Products](Screenshots/manage-products.png)
+![Screenshots/manageproducts.png](Screenshots/manageproducts.png)
 
 
 
