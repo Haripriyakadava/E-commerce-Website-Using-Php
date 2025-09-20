@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# XAMPP/MAMP/WAMP related
+xampp/
+htdocs/
+
+# Logs & cache
+*.log
+*.cache
+
+# Environment files
+*.env
+
+# Composer dependencies (if used)
+vendor/
+
+# Node dependencies (if used for frontend)
+node_modules/
