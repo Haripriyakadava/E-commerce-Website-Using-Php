@@ -53,25 +53,26 @@ Start Apache and MySQL from XAMPP control panel
 Open your browser:
 http://localhost/E-Commerce/
 
-📷 Screenshots:
+📷 Screenshots
 
-Login page:
-C:\xampp\htdocs\E-commerce\Screenshots\Login page.png
+🔑 Login Page
+![Login Page]Screenshots/Login page.png
 
-Home page:
-C:\xampp\htdocs\E-commerce\Screenshots\Home page.png
+🏠 Home Page
+![Home Page](Screenshots/home.png)
 
-Cart page:
-![alt text](<Screenshots/Cart page.png>)
+🛒 Cart Page
+![Cart Page](Screenshots/cart.png)
 
-Admin Login page:
-![alt text](<Screenshots/Admin login page.png>)
+🔐 Admin Login Page
+![Admin Login](Screenshots/Admin login.png)
 
-Admin Dashboard page:
-![alt text](<Screenshots/Admin Dashboard page.png>)
+📊 Admin Dashboard
+![Admin Dashboard](Screenshots/admin-dashboard.png)
 
-Manage products page:
-![alt text](<Screenshots/Manage products page.png>)
+📦 Manage Products
+![Manage Products](Screenshots/manage-products.png)
+
 
 
 📌 Notes
