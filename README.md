@@ -56,7 +56,7 @@ http://localhost/E-Commerce/
 📷 Screenshots
 
 🔑 Login Page
-![Login Page]Screenshots/Login page.png
+![Screenshots/login.png](Screenshots/login.png)
 
 🏠 Home Page
 ![Home Page](Screenshots/home.png)
